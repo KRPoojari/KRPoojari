@@ -17,4 +17,6 @@
   <img src='https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg' width=55px height=55px>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KRPoojari)](https://git.io/streak-stats)
+
 <!-- - 🌱 I’m currently looking for an internship and open to opportunities.-->
