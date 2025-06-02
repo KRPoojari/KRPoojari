@@ -9,7 +9,6 @@
 <p align="center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=55px height=55px alt="Python">
   <img src='https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg' width=55px height=55px alt="JavaScript">
-  <img src='https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg' width=55px height=55px alt="Java">
   <img src='https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg' width=55px height=55px alt="MongoDB">
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width=55px height=55px alt="Node.js">
   <img src='https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg' width=55px height=55px alt="React">
@@ -25,7 +24,6 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg' width=55px height=55px alt="Grafana">
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' width=55px height=55px alt="Django">
   <img src='https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg' width=55px height=55px alt="FastAPI">
-  <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width=55px height=55px alt="Flask">
   <img src='https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg' width=55px height=55px alt="Jenkins">
   <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg' width=55px height=55px alt="Redis">
 </p>
