@@ -2,8 +2,8 @@
 
 - 🎓 I'm a Computer Science graduate from Savitribai Phule Pune University.
 - 🏠 I'm from Mumbai, India and I'm a FullStack Developer.
+- 💻 Previously worked as a Software Engineer at Telstra.
 - 🌱 I work as a Freelance FullStack Web Developer.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-poojari).
 
 ## Skills
 <p align="center">
@@ -32,4 +32,14 @@
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KRPoojari&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
+<br>
+<div align="center">
+  📫 How to reach me -
+  <br>
+  <br>
+  <a href="mailto:kartikpoojari.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
